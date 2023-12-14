@@ -29,19 +29,27 @@ public static void main(String[] args){
 for(int i=0;i<20;i++){
 
 System.out.println(numbersArray[i]);
+}
+for(int i=0;i<20;i++){
 
 System.out.println(lettersInName[i]);
-
+}
+for(int i=0;i<20;i++){
 System.out.println(percentage[i]);
-
+}
+for(int i=0;i<20;i++){
 System.out.println(doubleArray[i]);
-
+}
+for(int i=0;i<20;i++){
 System.out.println(batteryPercentage[i]);
-
+}
+for(int i=0;i<20;i++){
 System.out.println(adharNumber[i]);
-
+}
+for(int i=0;i<20;i++){
 System.out.println(rollNumber[i]);
-
+}
+for(int i=0;i<20;i++){
 System.out.println(taskCompleted[i]);
 
 }
