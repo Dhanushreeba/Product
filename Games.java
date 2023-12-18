@@ -25,8 +25,8 @@ public class Games{
 	int number2=value2;
 	System.out.println(number2);
 	
-	int value3=95;
-	char number3=value3;
+	char value3='s';
+	int number3=value3;
 	System.out.println(number3);
 	
 	//downcasting
@@ -52,8 +52,8 @@ public class Games{
 	char charval2=(char) intnum2;
 	System.out.println(charval2);
 	
-	char val3='J';
-	int  num3=(int) val3+32;
-	System.out.println( +num3);
+	int num3=76;
+	char  charval3=(char) num3;
+	System.out.println( charval3);
 	} 
 }
