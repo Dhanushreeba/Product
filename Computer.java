@@ -3,8 +3,7 @@ public class Computer
     Computer()
 	
 {
-    System.out.println("default constructor");
-	System.out.println("no parameters");
+	System.out.println("1st Constructors");
 	
 }
    
