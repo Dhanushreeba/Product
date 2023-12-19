@@ -3,7 +3,6 @@ public class Jupiter
     Jupiter()
 	
 {
-    System.out.println("This is a default constructor");
 	System.out.println("no parameters");
 	
 }
