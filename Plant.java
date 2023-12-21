@@ -12,19 +12,21 @@ public class Plant{
 		
 	}
 	Plant(String plantName){
-		this(26,"Grass","poaceae");
+		this(26,"Grass");
 		System.out.println(plantName);
 		
 	}
-	Plant(int thickness,String plantName,String scientificName){
+	Plant(int thickness,String plantName){
+		this("Grass","poaceae");
+		
 		System.out.println(thickness);
-		System.out.println(scientificName);
+		System.out.println(plantName);
 		
 	}
 	Plant(String scientificName,String plantName){
-		this("poaceae");
-		System.out.println(scientificName);
 		
+		System.out.println(scientificName);
+		System.out.println(plantName);
 		
 		
 	}
