@@ -1,0 +1,5 @@
+public enum Plantes{
+
+   EARTH,MERCURY,VENUS,MARS,JUPITER,SATURN,URANUS,NEPTUNE;
+
+}
